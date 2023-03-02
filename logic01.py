@@ -9,5 +9,5 @@ def main(a,b,c):
         bool: answer
     """
     return(bool(int(a>b>c)))
-x=main(a=6,b=4,c=1)
+x=main(a=3,b=4,c=5)
 print(x)
