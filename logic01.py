@@ -8,6 +8,6 @@ def main(a,b,c):
     Returns:
         bool: answer
     """
-    return(bool(int(a<b<c)))
-x=main(a=3,b=4,c=5)
+    return(bool(int(a>b>c)))
+x=main(a=6,b=4,c=1)
 print(x)
