@@ -7,5 +7,5 @@ def main(a):
         bool: answer
     """
     return(a%11==0)
-x=main(77)
+x=main(88)
 print(x)
